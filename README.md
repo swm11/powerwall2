@@ -15,6 +15,8 @@ ___*** Please be patient as I have an unrelated day job! ***___
 This is a list of api URLs and some random thoughts I've been able to pull together from the interwebs and other functions we've been able to reverse engineer from the local gateway.  This is not the [ Tesla Owner API] which you can find here: (https://tesla-api.timdorr.com) with a Python library that works nicely to control a Powerwall 2 here: (https://github.com/mlowijs/tesla_api).
 
 A python implementation of the local API can be found here (https://github.com/jrester/tesla_powerwall).
+
+An alternative python implementation available as a pip and tested on firmware version 20.49.0 can be found here (https://pypi.org/project/powerwallstats/).
 -Thanks for submitting this: 
 
 ## Getting Started ##
